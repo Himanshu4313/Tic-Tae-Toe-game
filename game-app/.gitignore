@@ -5,6 +5,11 @@
 /.pnp
 .pnp.js
 
+
+/node_modules/.bin
+/node_modules/js-tokens
+/node_modules/loose-envify
+
 # testing
 /coverage
 
